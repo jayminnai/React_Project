@@ -9,6 +9,7 @@ function Dashboard_index() {
     <div className="container-scroller">
       {/* partial:partials/_navbar.html */}
       <Header/>
+      
       {/* partial */}
       <div className="container-fluid page-body-wrapper">
         {/* partial:partials/_settings-panel.html */}

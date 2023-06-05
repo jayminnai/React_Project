@@ -1,0 +1,99 @@
+{
+  "user": [
+    {
+      "id": "1683603575648",
+      "name": "Jaymin",
+      "email": "Jaymin@gmail.com",
+      "password": "jaymin",
+      "mobile": "4547545454",
+      "status": "Unblock"
+    },
+    {
+      "id": "1683777522601",
+      "name": "Jaks",
+      "email": "Jaks@gmail.com",
+      "password": "123",
+      "mobile": "455545455454",
+      "status": "Unblock"
+      
+    },
+    {
+      "id": "282",
+      "name": "Jaymin Nai",
+      "email": "Jayminnai@gmail.com",
+      "password": "456789",
+      "mobile": "8485868987",
+      "status": "Unblock"
+    },
+    {
+      "id": "366",
+      "name": "Jaks Nai",
+      "email": "Jaksnai@gmail.com",
+      "password": "12345",
+      "mobile": "8511938484",
+      "status": "Unblock"
+    },
+    {
+      "id": "901",
+      "name": "Parth",
+      "email": "Parth@gmail.com",
+      "password": "123456",
+      "mobile": "8485868887",
+      "status": "Unblock"
+    }
+  ],
+  "contact": [
+    {
+      "id": "441",
+      "name": "Jaymin Nai",
+      "email": "Jayminnai@gmail.com",
+      "subject": "hiiiiiiii",
+      "message": "I am jaymin nai i am react developer"
+    },
+    {
+      "id": "602",
+      "name": "Parth",
+      "email": "Parth@gmail.com",
+      "subject": "Hi i am parth",
+      "message": "kjsdfhkajsdfhk"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin1@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "product": [
+    {
+      "id": "161",
+      "name": "Pancake",
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail": "Delicious Pancake",
+      "price": "120"
+    },
+    {
+      "id": "663",
+      "name": "Salad",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+      "detail": "Healthy Salad",
+      "price": "150"
+    },
+    {
+      "id": "668",
+      "name": "Tomato Soup",
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/02/Homemade-Tomato-Soup-Recipe.jpg",
+      "detail": "Sweet Tomato Soup",
+      "price": "105"
+    },
+    {
+      "id": "234",
+      "name": "Vegetable Soup",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/06/vegetable-soup-500x375.jpg",
+      "detail": "Hot Vegetable Soup",
+      "price": "125"
+    }
+  ]
+}
